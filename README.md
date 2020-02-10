@@ -3,7 +3,7 @@
 支持声明式跟编码式分布式锁设置
 
 ## 如何安装
-第一步 mvn clean install -Dmaven.test.skip=true 
+第一步 mvn clean install -Dmaven.test.skip=true   
 第二步 在项目pom.xml加上
 ```$xslt
 <dependency>
